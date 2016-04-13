@@ -1,6 +1,0 @@
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\bin\Debug\EvenOdd.exe.config
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\bin\Debug\EvenOdd.exe
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\bin\Debug\EvenOdd.pdb
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\obj\Debug\EvenOdd.exe
-c:\users\jxw3498\documents\visual studio 2015\Projects\ChessBoard\ChessBoard\obj\Debug\EvenOdd.pdb
